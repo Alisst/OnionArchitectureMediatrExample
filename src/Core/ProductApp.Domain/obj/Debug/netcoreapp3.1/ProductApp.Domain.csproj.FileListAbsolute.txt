@@ -1,0 +1,5 @@
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.AssemblyInfo.cs
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.csproj.CoreCompileInputs.cache

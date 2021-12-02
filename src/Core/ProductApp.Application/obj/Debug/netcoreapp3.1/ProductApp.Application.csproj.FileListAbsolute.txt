@@ -1,0 +1,4 @@
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.AssemblyInfoInputs.cache
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.AssemblyInfo.cs
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.csproj.CoreCompileInputs.cache

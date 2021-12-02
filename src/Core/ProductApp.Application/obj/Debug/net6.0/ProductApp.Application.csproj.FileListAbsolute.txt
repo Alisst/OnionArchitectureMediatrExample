@@ -1,0 +1,15 @@
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Application.deps.json
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Application.dll
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\bin\Debug\net6.0\ref\ProductApp.Application.dll
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Application.pdb
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Domain.dll
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Domain.pdb
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.csproj.AssemblyReference.cache
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.AssemblyInfoInputs.cache
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.AssemblyInfo.cs
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.csproj.CopyComplete
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.dll
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ref\ProductApp.Application.dll
+C:\Users\Ali Huzmeli\Desktop\SourceCode\ProductApp\src\Core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.pdb
